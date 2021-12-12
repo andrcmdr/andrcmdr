@@ -20,4 +20,4 @@ In my spare time, I enjoys hiking and being outdoors among the mountains and lak
 
 ## Github stats
 
-![AndrCmdr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrcmdr&count_private=true&include_all_commits=true&hide_title=false&show_icons=true&theme=ocean_dark)
+![AndrCmdr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrcmdr&count_private=true&include_all_commits=false&hide_title=false&show_icons=true&theme=ocean_dark)
